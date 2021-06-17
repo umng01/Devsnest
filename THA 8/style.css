@@ -1,0 +1,20 @@
+.main{
+    margin: 100px auto;
+    display: flex;
+    justify-content: center;
+    height: 80vh;
+    width: 100vw;
+}
+.row{
+    display: flex;
+}
+.col{
+    border: 1px solid white;
+    height: 25px;
+    width: 25px;
+    background-color: rgb(235, 147, 162);
+}
+.white{
+    background-color: white;
+} 
+

@@ -12,7 +12,6 @@ window.onload = () => {
         }
     }
 }
-
 setTimeout(() => {
     var cols = document.querySelectorAll('.col');
     cols.forEach(col => {

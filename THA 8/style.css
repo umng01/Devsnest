@@ -1,15 +1,8 @@
 .grid{
     margin: 150px 550px;
-    /* display: flex; */
-    /* justify-content: center; */
-    /* height: 1500px;
-    width: 1500px; */
-    /* background-color: pink; */
-    /* box-sizing: content-box; */
 }
 .row{
     display: flex;
-    
 }
 .col{
     border: 1px solid white;

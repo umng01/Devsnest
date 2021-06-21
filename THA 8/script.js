@@ -20,4 +20,4 @@ setTimeout(() => {
             col.classList.toggle('white');
         });
     });
-}, 100)
+}, 1)

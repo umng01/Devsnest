@@ -7,18 +7,14 @@ body{
     margin-top: 0px;
     padding: 0;
 }
-
 .scroll{
-    position: relative;
-    left: 45%;
-    right: 45%;
+    position: relative;left: 45%;right: 45%;
     width: 250px;
     height: 250px;
     overflow: scroll;
     border: 2px solid silver;
     overflow: scroll;
     text-align: left;
-
 }
 input{
     background-color: lightyellow;
@@ -27,11 +23,7 @@ input{
     height: 30px;
 }
 button{
-    width: 100px;
-    height: 70px;
-    background-image: url('eyes.jpg');
-    background-size: cover;
-    background-repeat: no-repeat;
+    width: 100px;height: 70px;background-image: url('eyes.jpg');background-size: cover;background-repeat: no-repeat;
 }
 #sel{
     width: 300px;

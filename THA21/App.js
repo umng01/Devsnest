@@ -12,30 +12,29 @@ export default function App() {
 		);
 	};
 
-	const addItem = item => {
+  const addItem = item => {
 		setData([...data, item]);
 	};
-	const removeItem = index => {
+  const removeItem = index => {
 		setData(data.filter((item, i) => i !== index));
 	};
   return (
     <div className="app">
-      <div className='container'>
-			<AddItemForm addItem={addItem} />
-			{data.length === 0 ? (
-        <h3>Add few </h3>
-			) : (
-				data.map((item, index) => (
-					<Editing
-						item={item}
-						key={index}
-						index={index}
-						updateItem={updateItem}
-						removeItem={removeItem}
-					/>
-				))
-			)}
-		</div>
+    <div className='container'>
+	<AddItemForm addItem={addItem} />
+	{data.length === 0 ? (
+    <h3>Add few </h3>
+	) : (
+		data.map((item, index) => (
+			<Editing
+				item={item}
+				key={index}
+				index={index}
+				updateItem={updateItem}
+				removeItem={removeItem}
+			/>
+		)))}
+	</div>
     </div>
   );
 }

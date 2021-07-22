@@ -1,0 +1,39 @@
+body{
+    padding: 0;
+    margin: 0;
+	text-align: center;
+	font-size: 30px;
+	background-image: linear-gradient(aqua, grey);
+}
+button{
+	padding: 5px;
+	border-radius: 5px;
+	background-color: black;
+	color: white;
+	font-weight: bold;
+}
+input {
+	padding: 5px;
+	border-radius: 5px;
+	margin: 20px 0;
+}
+.nav{
+    display: flex;
+	flex-direction: row;
+	padding: 20px;
+	width: 100%;
+	align-content: center;
+	justify-content: center;
+	background-color: rgb(7, 2, 77);
+}
+.nav ul {
+	list-style: none;
+	display: flex;
+	justify-content: space-around;
+	width: 100%;
+}
+.nav ul li{
+	color: white;
+	font-weight: bold;
+	text-decoration: none;
+}

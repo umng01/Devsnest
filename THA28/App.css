@@ -1,0 +1,80 @@
+@import url("https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@1,300&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-image: url(https://images.pexels.com/photos/1831234/pexels-photo-1831234.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+}
+.App {
+  text-align: center;
+  font-family: "Merriweather", serif;
+}
+button{
+  font-weight: 500;
+}
+.form {
+  padding: 10px;
+  margin-top: 100px;
+  display: flex;
+  justify-content: center;
+  /* align-items: center; */
+}
+.form input {
+  padding: 10px;
+  outline: 0;
+  border-width: 0 0 2px;
+  border-color: blueviolet;
+}
+.form button {
+  margin: 0px 10px;
+}
+.card {
+  background-image: url(https://wallpapercave.com/wp/pZx4t75.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: #fff;
+  margin-top: 50px;
+  border-radius: 4px;
+  border-radius: 35px;
+  box-shadow:  5px 10px 10px 10px grey;
+}
+.weather {
+  text-align: center;
+}
+.card img {
+  width: 30%;
+  margin-top: 20px;
+}
+.card .place {
+  font-size: 1.2rem;
+  font-weight: 500;
+  margin: 10px 0;
+}
+.card .temp {
+  font-size: 4rem;
+  margin-left: 30.39px;
+  font-weight: 500;
+}
+.card .desc {
+  font-size: 0.8rem;
+  font-weight: 500;
+}
+.card .country{
+  font-size: 1.2rem;
+  text-decoration: underline;
+}
+.whp {
+  margin: 20px 0;
+}
+.whp .title {
+  font-size: 0.8rem;
+}
+.whp .data {
+  font-size: 1.5rem;
+  font-weight: 500;
+}
+.whp .data .unit {
+  font-size: 0.8rem;
+}

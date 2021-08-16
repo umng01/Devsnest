@@ -1,0 +1,103 @@
+@import url("https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@1,300&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.App {
+  text-align: center;
+  font-family: "Merriweather", serif;
+  height: 100vh;
+  background-image: url(https://images.unsplash.com/photo-1594796582908-720e81e9af7e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1868&q=80);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.App.dark {
+  background-color: black;
+  color: white;
+  background-image: url(https://images.unsplash.com/photo-1528485238486-507af7c0aa19?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=889&q=80);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+button {
+  font-weight: 500;
+}
+
+.form {
+  padding: 10px;
+  margin-top: 100px;
+  display: flex;
+  justify-content: center;
+}
+.form input {
+  padding: 10px;
+  outline: 0;
+  border-width: 0 0 2px;
+  border-color: blueviolet;
+}
+.form button {
+  margin: 0px 10px;
+}
+.card {
+  margin-top: 50px;
+  border-radius: 4px;
+  border-radius: 35px;
+  box-shadow: 5px 10px 10px 10px grey;
+}
+.card.light {
+  background-image: url(https://wallpapercave.com/wp/pZx4t75.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+}
+.card.dark {
+  background: url(https://images.unsplash.com/photo-1517438546260-ba9763fc7d51?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80);
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: black;
+  box-shadow: 5px 10px 10px 10px black;
+}
+.weather {
+  text-align: center;
+}
+.card img {
+  width: 30%;
+  margin-top: 20px;
+}
+.card .place {
+  font-size: 1.2rem;
+  font-weight: 500;
+  margin: 10px 0;
+}
+.card .temp {
+  font-size: 4rem;
+  margin-left: 30.39px;
+  font-weight: 500;
+}
+.card .desc {
+  font-size: 0.8rem;
+  font-weight: 500;
+}
+.card .country {
+  font-size: 1.2rem;
+  text-decoration: underline;
+}
+.whp {
+  margin: 20px 0;
+}
+.whp .title {
+  font-size: 0.8rem;
+}
+.whp .data {
+  font-size: 1.5rem;
+  font-weight: 500;
+}
+.whp .data .unit {
+  font-size: 0.8rem;
+}
+.toggle-theme {
+  position: fixed;
+  top: 10px;
+  right: 10px;
+}

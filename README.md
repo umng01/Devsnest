@@ -4,9 +4,9 @@
 | 2 | Letter using HTML and CSS | [Click here](https://gallant-hoover-164080.netlify.app) |
 | 3 |Resume using HTML and CSS| [Click here](https://mystifying-lovelace-cd120b.netlify.app) |
 | 4 |Clock using HTML and CSS | [Click here](https://agitated-johnson-b8cc98.netlify.app) |
-| 5 | Calculator using HTML, CSS and JS | [Click here]() |
+| 5 |  JavaScript Objects| [Click here]() |
 | 6 | Getting Started with JavaScript| [Click here](https://github.com/umng01/Devsnest-Frontend/tree/master/THA5) |
-| 7 | JavaScript Objects| [Click here] () |
+| 7 | Calculator using HTML, CSS and JS| [Click here](https://elastic-hawking-be0c51.netlify.app/) |
 | 8 | JavaScript Objects | [Click here] () |
 | 9 | Seat Booking App using HTML, CSS and JS | [Click here] () |
 | 10 | Memory Card Game| [Click here] () |

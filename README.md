@@ -11,9 +11,9 @@
 | 9 | Seat Booking App using HTML, CSS and JS | [Click here] () |
 | 10 | Memory Card Game| [Click here](https://inspiring-yonath-07e088.netlify.app/) |
 | 11| Quiz Game| [Click here](https://reverent-hoover-5876db.netlify.app/) |
-| 12| TO-DO List | [Click here] () |
-| 13| Use of Fetch API | [Click here] () |
-| 14| Use of Event Listeners | [Click here] () |
+| 12| TO-DO List | [Click here](https://frosty-johnson-fae8da.netlify.app/) |
+| 13| Use of Fetch API | [Click here](https://epic-goldwasser-c2715a.netlify.app/) |
+| 14| Use of Event Listeners | [Click here](https://tender-almeida-89ec1f.netlify.app/) |
 | 15| React Hello World | [Click here] () |
 | 16|React Card and ChessBoard | [Click here] () |
 | 17| React Props| [Click here] () |

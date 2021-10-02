@@ -7,10 +7,10 @@
 | 5 | JavaScript Objects| [Click here](https://github.com/umng01/Devsnest-Frontend/tree/master/THA5) |
 | 6 | Getting Started with JavaScript| [Click here](https://github.com/umng01/Devsnest-Frontend/tree/master/THA6) |
 | 7 | Calculator using HTML, CSS and JS| [Click here](https://elastic-hawking-be0c51.netlify.app/) |
-| 8 | JavaScript Objects | [Click here] () |
+| 8 | JavaScript Objects | [Click here](https://jovial-visvesvaraya-b5f94a.netlify.app/) |
 | 9 | Seat Booking App using HTML, CSS and JS | [Click here] () |
-| 10 | Memory Card Game| [Click here] () |
-| 11| Quiz Game| [Click here] () |
+| 10 | Memory Card Game| [Click here](https://inspiring-yonath-07e088.netlify.app/) |
+| 11| Quiz Game| [Click here](https://reverent-hoover-5876db.netlify.app/) |
 | 12| TO-DO List | [Click here] () |
 | 13| Use of Fetch API | [Click here] () |
 | 14| Use of Event Listeners | [Click here] () |

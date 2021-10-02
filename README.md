@@ -1,9 +1,9 @@
 | SNO | TASK | LINK |
 | :---|     :---           | :---  |
 | 1 | Letter using HTML   | [Click here](https://tender-blackwell-8b7899.netlify.app)  |
-| 2 | Letter using HTML and CSS | [Click here] () |
-| 3 |Resume using HTML and CSS| [Click here] () |
-| 4 |Clock using HTML and CSS | [Click here] () |
+| 2 | Letter using HTML and CSS | [Click here](https://gallant-hoover-164080.netlify.app) |
+| 3 |Resume using HTML and CSS| [Click here](https://mystifying-lovelace-cd120b.netlify.app) |
+| 4 |Clock using HTML and CSS | [Click here](https://agitated-johnson-b8cc98.netlify.app) |
 | 5 | Calculator using HTML, CSS and JS | [Click here] () |
 | 6 | Getting Started with JavaScript| [Click here] () |
 | 7 | JavaScript Objects| [Click here] () |

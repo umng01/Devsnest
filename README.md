@@ -1,13 +1,13 @@
 | SNO | TASK | LINK |
 | :---|     :---           | :---  |
-| 1   | Letter to Director    | [Click here](https://tender-blackwell-8b7899.netlify.app)  |
-| 2 | Letter using CSS | [Click here] () |
+| 1 | Letter using HTML   | [Click here](https://tender-blackwell-8b7899.netlify.app)  |
+| 2 | Letter using HTML and CSS | [Click here] () |
 | 3 |Resume using HTML and CSS| [Click here] () |
 | 4 |Clock using HTML and CSS | [Click here] () |
 | 5 | Calculator using HTML, CSS and JS | [Click here] () |
-| 6 | | [Click here] () |
-| 7 | | [Click here] () |
-| 8 | | [Click here] () |
+| 6 | Getting Started with JavaScript| [Click here] () |
+| 7 | JavaScript Objects| [Click here] () |
+| 8 | JavaScript Objects | [Click here] () |
 | 9 | Seat Booking App using HTML, CSS and JS | [Click here] () |
 | 10 | Memory Card Game| [Click here] () |
 | 11| Quiz Game| [Click here] () |

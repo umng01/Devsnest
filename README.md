@@ -16,7 +16,7 @@
 | 14| Use of Event Listeners | [Click here](https://tender-almeida-89ec1f.netlify.app/) |
 | 15| React Hello World | [Click here](https://amazing-pare-93c1cc.netlify.app/) |
 | 16|React View Image | [Click here](https://compassionate-wright-100d04.netlify.app/) |
-| 17| React Props| [Click here]() |
+| 17| React ChessBoard| [Click here](https://vigorous-archimedes-c6b521.netlify.app/) |
 | 18| React Conditional Rendering| [Click here]() |
 | 19| React State Management| [Click here]() |
 | 20| React Hooks| [Click here]() |

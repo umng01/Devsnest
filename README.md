@@ -18,8 +18,8 @@
 | 16|React View Image | [Click here](https://compassionate-wright-100d04.netlify.app/) |
 | 17| React ChessBoard| [Click here](https://vigorous-archimedes-c6b521.netlify.app/) |
 | 18| React Conditional Rendering| [Click here]() |
-| 19| React State Management| [Click here](https://tender-shirley-814e89.netlify.app/) |
-| 20| React Hooks| [Click here]() |
+| 19| React Plus One| [Click here](https://tender-shirley-814e89.netlify.app/) |
+| 20| Calorie Card with Delete Functionality| [Click here](https://naughty-mayer-2e2c9e.netlify.app/) |
 | 21| State management using Hooks| [Click here] () |
 | 22| React Meme Generator | [Click here] () |
 | 23| | [Click here] () |

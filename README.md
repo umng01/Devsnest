@@ -15,7 +15,7 @@
 | 13| Use of Fetch API | [Click here](https://epic-goldwasser-c2715a.netlify.app/) |
 | 14| Use of Event Listeners | [Click here](https://tender-almeida-89ec1f.netlify.app/) |
 | 15| React Hello World | [Click here](https://amazing-pare-93c1cc.netlify.app/) |
-| 16|React Card and ChessBoard | [Click here]() |
+| 16|React View Image | [Click here](https://compassionate-wright-100d04.netlify.app/) |
 | 17| React Props| [Click here]() |
 | 18| React Conditional Rendering| [Click here]() |
 | 19| React State Management| [Click here]() |

@@ -23,7 +23,7 @@
 | 21| Calorie Card with Edit and Delete| [Click here](https://jovial-wozniak-3b0883.netlify.app/) |
 | 22| React Meme Generator | [Click here](https://hardcore-goldstine-bf6726.netlify.app/) |
 | 23| Random Images API| [Click here](https://elated-nightingale-92d3d1.netlify.app/) |
-| 24| | [Click here] () |
+| 24| State management with context & reducer | [Click here](https://csb-icndo.netlify.app/) |
 | 25| | [Click here] () |
 | 26| | [Click here] () |
 | 27| | [Click here] () |

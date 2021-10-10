@@ -25,7 +25,7 @@
 | 23| Random Images API| [Click here](https://elated-nightingale-92d3d1.netlify.app/) |
 | 24| State management with context & reducer | [Click here](https://csb-icndo.netlify.app/) |
 | 25| BootStrap| [Click here](https://thirsty-brown-8d6bf5.netlify.app/) |
-| 26| | [Click here] () |
+| 26| React-Redux Basics| [Click here](https://tender-bohr-0d6bae.netlify.app/) |
 | 27| | [Click here] () |
 | 28| | [Click here] () |
 | 29| | [Click here] () |

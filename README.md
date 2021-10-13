@@ -28,7 +28,7 @@
 | 26| React-Redux Basics| [Click here](https://tender-bohr-0d6bae.netlify.app/) |
 | 27| TODO's App using Redux Thunk| [Click here](https://cocky-lichterman-5ad7a1.netlify.app/) |
 | 28| Weather App using API and ReactJs| [Click here](https://heuristic-babbage-2f52f5.netlify.app/) |
-| 29| | [Click here]() |
+| 29| Weather App with Light and Dark Mode| [Click here](https://laughing-archimedes-227dca.netlify.app/) |
 | 30| | [Click here]() |
 | 31| | [Click here]() |
 | 32| | [Click here]() |

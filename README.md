@@ -26,12 +26,12 @@
 | 24| State management with context & reducer | [Click here](https://csb-icndo.netlify.app/) |
 | 25| BootStrap| [Click here](https://thirsty-brown-8d6bf5.netlify.app/) |
 | 26| React-Redux Basics| [Click here](https://tender-bohr-0d6bae.netlify.app/) |
-| 27| | [Click here] () |
-| 28| | [Click here] () |
-| 29| | [Click here] () |
-| 30| | [Click here] () |
-| 31| | [Click here] () |
-| 32| | [Click here] () |
-| 33| | [Click here] () |
-| 34| | [Click here] () |
-| 35| | [Click here] () | 
+| 27| TODO's App using Redux Thunk| [Click here](https://cocky-lichterman-5ad7a1.netlify.app/) |
+| 28| | [Click here]() |
+| 29| | [Click here]() |
+| 30| | [Click here]() |
+| 31| | [Click here]() |
+| 32| | [Click here]() |
+| 33| | [Click here]() |
+| 34| | [Click here]() |
+| 35| | [Click here]() | 

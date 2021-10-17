@@ -30,7 +30,6 @@
 | 28| Weather App using API and ReactJs| [Click here](https://heuristic-babbage-2f52f5.netlify.app/) |
 | 29| Weather App with Light and Dark Mode| [Click here](https://laughing-archimedes-227dca.netlify.app/) |
 | 30, 31| Courses Cards| [Click here](https://thirsty-lumiere-5a5c26.netlify.app/) |
-| 32| | [Click here]() |
-| 33| | [Click here]() |
-| 34| | [Click here]() |
-| 35| | [Click here]() | 
+| 32| TODOs using TypeScript| [Click here](https://infallible-archimedes-793a35.netlify.app/) |
+| 33, 34|DevsCart | [Click here](https://devscart.netlify.app/) |
+| 35| Instagram Clone| [Click here]() | 

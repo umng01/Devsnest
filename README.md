@@ -32,4 +32,4 @@
 | 30, 31| Courses Cards| [Click here](https://thirsty-lumiere-5a5c26.netlify.app/) |
 | 32| TODOs using TypeScript| [Click here](https://infallible-archimedes-793a35.netlify.app/) |
 | 33, 34|DevsCart | [Click here](https://devscart.netlify.app/) |
-| 35| Instagram Clone| [Click here]() | 
+| 35| Instagram Clone| [Click here](https://sleepy-mayer-d089df.netlify.app/) | 

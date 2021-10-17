@@ -29,8 +29,7 @@
 | 27| TODO's App using Redux Thunk| [Click here](https://cocky-lichterman-5ad7a1.netlify.app/) |
 | 28| Weather App using API and ReactJs| [Click here](https://heuristic-babbage-2f52f5.netlify.app/) |
 | 29| Weather App with Light and Dark Mode| [Click here](https://laughing-archimedes-227dca.netlify.app/) |
-| 30| Courses Cards| [Click here](https://thirsty-lumiere-5a5c26.netlify.app/) |
-| 31| | [Click here]() |
+| 30, 31| Courses Cards| [Click here](https://thirsty-lumiere-5a5c26.netlify.app/) |
 | 32| | [Click here]() |
 | 33| | [Click here]() |
 | 34| | [Click here]() |

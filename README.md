@@ -21,7 +21,7 @@
 | 19| React Plus One| [Click here](https://tender-shirley-814e89.netlify.app/) |
 | 20| Calorie Card with Delete Functionality| [Click here](https://naughty-mayer-2e2c9e.netlify.app/) |
 | 21| Calorie Card with Edit and Delete| [Click here](https://jovial-wozniak-3b0883.netlify.app/) |
-| 22| React Meme Generator | [Click here](https://hardcore-goldstine-bf6726.netlify.app/) |
+| 22| React Meme Generator | [Click here](https://epic-visvesvaraya-bb2d6b.netlify.app/) |
 | 23| Random Images API| [Click here](https://elated-nightingale-92d3d1.netlify.app/) |
 | 24| State management with context & reducer | [Click here](https://csb-icndo.netlify.app/) |
 | 25| BootStrap| [Click here](https://thirsty-brown-8d6bf5.netlify.app/) |
